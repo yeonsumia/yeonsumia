@@ -24,5 +24,5 @@
  <a><img src="https://img.shields.io/badge/Docker_-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  <br>
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsumia&layout=compact&theme=prussian&hide=jupyter%20notebook,css,scss,cython,shell,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsumia&layout=compact&theme=prussian&hide=jupyter%20notebook,css,scss,cython,shell,html,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
