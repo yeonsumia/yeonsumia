@@ -7,15 +7,12 @@
  <a><img src="https://img.shields.io/badge/Python_-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Java_-007396?style=flat-square&logo=Java&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Javascript_-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/HTML_-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/CSS_-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
  <br>
  🖥
  <a><img src="https://img.shields.io/badge/springboot_-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/mysql_-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/react_-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/node.js_-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
- <a><img src="https://img.shields.io/badge/express_-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
 <br>
  📡
  <a><img src="https://img.shields.io/badge/aws_-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
@@ -24,5 +21,5 @@
  <a><img src="https://img.shields.io/badge/Docker_-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  <br>
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsumia&layout=compact&theme=prussian&hide=jupyter%20notebook,css,scss,cython,shell,html,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsumia&layout=compact&theme=prussian&hide=jupyter%20notebook,css,scss,cython)](https://github.com/anuraghazra/github-readme-stats)
 
