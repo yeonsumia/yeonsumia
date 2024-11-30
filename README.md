@@ -1,10 +1,9 @@
  🔍
- <a href="https://www.instagram.com/yeonsumia_/" target="_blank"><img src="https://img.shields.io/badge/yeonsumia_-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="yeonsumia@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/yeonsumia@snu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <br>
  ⌨️
- <a><img src="https://img.shields.io/badge/Kotlin_-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Python_-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Kotlin_-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
  <br>
  🖥
  <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
